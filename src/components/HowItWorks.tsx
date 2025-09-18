@@ -72,12 +72,6 @@ const HowItWorks = () => {
           })}
         </div>
 
-        {/* Call to Action */}
-        <div className="text-center mt-16 animate-fade-in">
-          <p className="text-lg text-muted-foreground">
-            Ready to start making a difference?
-          </p>
-        </div>
       </div>
     </section>
   );
