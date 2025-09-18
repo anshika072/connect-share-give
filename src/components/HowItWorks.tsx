@@ -74,17 +74,9 @@ const HowItWorks = () => {
 
         {/* Call to Action */}
         <div className="text-center mt-16 animate-fade-in">
-          <p className="text-lg text-muted-foreground mb-6">
+          <p className="text-lg text-muted-foreground">
             Ready to start making a difference?
           </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <button className="bg-gradient-button text-primary-foreground px-8 py-3 rounded-lg font-semibold hover:shadow-glow hover:scale-105 transition-all duration-300">
-              Share Resources
-            </button>
-            <button className="bg-gradient-secondary text-secondary-foreground px-8 py-3 rounded-lg font-semibold hover:shadow-glow hover:scale-105 transition-all duration-300">
-              Find Help
-            </button>
-          </div>
         </div>
       </div>
     </section>
